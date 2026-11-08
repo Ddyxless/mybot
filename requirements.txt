@@ -1,0 +1,7 @@
+pybotnet
+pillow
+beautifulsoup4
+requests
+pynput
+pyTelegramBotAPI
+schedule
